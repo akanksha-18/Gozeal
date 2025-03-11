@@ -23,7 +23,7 @@ The **Certification App** allows users to manage certifications by adding, viewi
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/certification-app.git
+   git clone https://github.com/akanksha-18/Gozeal.git
    ```
 2. Navigate to the project directory:
    ```sh
