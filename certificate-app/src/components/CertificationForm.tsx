@@ -63,7 +63,7 @@ const CertificationForm: React.FC = () => {
       setTimeout(() => {
         setSuccessMessage(null);
         navigate('/view');
-      }, 3000);
+      }, 1000);
     }
   };
 
